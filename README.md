@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ovi    
 - 👀 I’m interested in Web Development & Data Science & Sqa related work.
 - 🌱 I’m currently learning Web Development & Machine Learning as well as sqa.
-- 💞️ I’m looking to collaborate on Development work & Ml Research based publication
 - 📫 How to reach me ... mail me at ovim456@gmail.com
 
 <!---
